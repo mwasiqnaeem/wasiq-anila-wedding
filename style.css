@@ -470,3 +470,17 @@ h2 {
     transform: translateY(-3px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.08);
 }
+
+.event-subtitle {
+    display: inline-block;
+    margin: 6px auto 18px;
+    padding: 8px 18px;
+    border: 1px solid rgba(255, 255, 255, 0.65);
+    border-radius: 999px;
+
+    font-size: 13px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+
+    color: rgba(255, 255, 255, 0.95);
+}
